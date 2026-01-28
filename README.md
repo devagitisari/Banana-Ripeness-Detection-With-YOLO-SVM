@@ -25,3 +25,5 @@ YOLO model weights (`best.pt`) and dataset are not included due to file size lim
 
 ## Author
 Deva Gitisari
+Nayla Natania Putri
+Restu Putri Nisrina
